@@ -1,0 +1,26 @@
+# ninja log v5
+19	2741	7605688608969334	CMakeFiles/Project-06_02_25.dir/Core/Src/stm32l4xx_it.c.obj	2825811b11c9d9d0
+33	2326	7608262898100323	CMakeFiles/Project-06_02_25.dir/Core/Src/main.c.obj	66e81af771c0b45c
+48	2913	7605688610970105	CMakeFiles/Project-06_02_25.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_uart_ex.c.obj	d2fe1b052bd6f20c
+107	2788	7605688609467371	CMakeFiles/Project-06_02_25.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_flash.c.obj	c04d7ba6cc128135
+27	2928	7605688610970105	CMakeFiles/Project-06_02_25.dir/Core/Src/stm32l4xx_hal_msp.c.obj	a6e2d8420635e831
+120	3028	7605688612019137	CMakeFiles/Project-06_02_25.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_flash_ex.c.obj	9189e86bad346422
+99	3119	7605688612470454	CMakeFiles/Project-06_02_25.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rcc_ex.c.obj	256d95dbedea769d
+76	3246	7605688614739332	CMakeFiles/Project-06_02_25.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_rcc.c.obj	9f6883fe31cd0fd7
+67	3266	7605688614492853	CMakeFiles/Project-06_02_25.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal.c.obj	ecfaf4b7940f1812
+38	3554	7605688618049885	CMakeFiles/Project-06_02_25.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_uart.c.obj	112a7cdfd0199274
+2789	5345	7605688635409716	CMakeFiles/Project-06_02_25.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_i2c.c.obj	2bbaf201e0f791d1
+2768	5378	7605688634455854	CMakeFiles/Project-06_02_25.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_flash_ramfunc.c.obj	23c86f58ca56f9f5
+5497	6378	7605688642706215	CMakeFiles/Project-06_02_25.dir/startup_stm32l476xx.s.obj	58d6e8318d29e2c4
+2778	5404	7605688635253400	CMakeFiles/Project-06_02_25.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_gpio.c.obj	6951881689db52b6
+5345	7142	7605688653996532	CMakeFiles/Project-06_02_25.dir/Core/Src/system_stm32l4xx.c.obj	1e570244c69293ef
+3029	5496	7605688636877897	CMakeFiles/Project-06_02_25.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_dma_ex.c.obj	3c015dc34c9aedba
+3554	6447	7605688643603587	CMakeFiles/Project-06_02_25.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_exti.c.obj	25222200dd648915
+2914	5706	7605688638260583	CMakeFiles/Project-06_02_25.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_i2c_ex.c.obj	48a050d4caf4a8c6
+2928	5886	7605688640632364	CMakeFiles/Project-06_02_25.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_dma.c.obj	ede9458af0e277d7
+3119	5912	7605688640423209	CMakeFiles/Project-06_02_25.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pwr.c.obj	cc6500d470adbd7f
+5378	6873	7605688650998012	CMakeFiles/Project-06_02_25.dir/Core/Src/sysmem.c.obj	c605214e08434d16
+3266	6465	7605688643580157	CMakeFiles/Project-06_02_25.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_cortex.c.obj	4fac9a4382054af4
+3247	6471	7605688643070169	CMakeFiles/Project-06_02_25.dir/Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pwr_ex.c.obj	2cf42359bb41adab
+5404	7718	7605688659859552	CMakeFiles/Project-06_02_25.dir/Core/Src/syscalls.c.obj	8e02ad22d23e73a3
+2329	3908	7608262913408626	Project-06_02_25.elf	c12186e1d93704fe
